@@ -1,0 +1,4 @@
+
+because f(N) < g(N), 
+so 15f(N) + 6g(N) < 15g(N) + 6g(N) = 21g(N). 
+according to the simplifications of big-O, 21g(N) = O(g(N))
