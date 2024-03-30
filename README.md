@@ -11,3 +11,4 @@ The format is (Exercise-Chapter Number-Question Number)
 4. E-8-15
 5. E-8-16
 6. E-8-17
+7. E-13-11 (The linked list contains no dummy cell is not elegant.)
