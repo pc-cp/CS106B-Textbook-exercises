@@ -12,3 +12,8 @@ The format is (Exercise-Chapter Number-Question Number)
 5. E-8-16
 6. E-8-17
 7. E-13-11 (The linked list contains no dummy cell is not elegant.)
+8. E-14-4 (boring and repeatable problem)
+9. E-14-5 (boring and repeatable problem)
+10. E-14-6 (unnecessary)
+11. E-14-12 (Using linked lists to achieve string drives me crazy.)
+
