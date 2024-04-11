@@ -17,4 +17,6 @@ The format is (Exercise-Chapter Number-Question Number)
 10. E-14-6 (unnecessary)
 11. E-14-12 (Using linked lists to achieve string drives me crazy.)
 12. E-15-8/9/10 (I've actually benefited from toString in E-15-7, and I think it's time for the next chapter in the limited time available.)
+13. E-16-9 (The rotation of AVL makes me dazzling.)
+14. E-16-12 (red-black trees ...)
 
