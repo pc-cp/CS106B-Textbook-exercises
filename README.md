@@ -19,4 +19,6 @@ The format is (Exercise-Chapter Number-Question Number)
 12. E-15-8/9/10 (I've actually benefited from toString in E-15-7, and I think it's time for the next chapter in the limited time available.)
 13. E-16-9 (The rotation of AVL makes me dazzling.)
 14. E-16-12 (red-black trees ...)
-
+15. E-17-3 prime number
+16. E-17-4 Repeat with 17-1
+17. E-17-7/8/9 (I think it's time for the next chapter in the limited time available.)
