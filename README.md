@@ -22,3 +22,4 @@ The format is (Exercise-Chapter Number-Question Number)
 15. E-17-3 prime number
 16. E-17-4 Repeat with 17-1
 17. E-17-7/8/9 (I think it's time for the next chapter in the limited time available.)
+18. E-18-1/2/5/6/7/8/9/10/11/12/13 (Graph theory is vast, but some of these topics are filling up the questions?)
