@@ -23,3 +23,4 @@ The format is (Exercise-Chapter Number-Question Number)
 16. E-17-4 Repeat with 17-1
 17. E-17-7/8/9 (I think it's time for the next chapter in the limited time available.)
 18. E-18-1/2/5/6/7/8/9/10/11/12/13 (Graph theory is vast, but some of these topics are filling up the questions?)
+19. E-19-1/2/3/4/5/6/8/16/17/18 (I will come back.)
